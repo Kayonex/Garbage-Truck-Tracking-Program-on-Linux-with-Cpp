@@ -1,7 +1,7 @@
 # Garbage Truck Tracking Simulation Program on Linux 🚛♻️🗑️
 - Made with **advanced** data structers knowledge as a part of **CSE211** course
-- Mostly C++ was used
-- and little bit of MAKEFILE
+- C++ was used
+- Implemented with Linux
 ## What does it do❓
 - It simulates a garbage truck wandering around a city(grid) and loads garbage from the bins with critical level trash in it
 - When the truck is fully loaded it needs to dispose so it goes to a disposal facility
